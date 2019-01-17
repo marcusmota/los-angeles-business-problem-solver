@@ -3,7 +3,7 @@ It's a simple API to solve two specific issue
 
 ## Running the tests
 
-To run the unit test just run npm run test-unit, to run the integration tests run test-integration
+To run the unit test just type npm run test-unit, to run the integration tests type npm run test-integration
 
 ## Authors
 
